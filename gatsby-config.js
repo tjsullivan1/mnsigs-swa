@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Sigma Chi Greater Minnesota Alumni Association`,
+    title: `Greater Minnesota Alumni Association`,
     description: `MNSigs.`,
     author: `@SullivanTim`,
   },
