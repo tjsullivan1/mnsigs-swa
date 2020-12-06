@@ -10,7 +10,7 @@ const BylawsPage = () => (
     <div>
     <h1>Sigma Chi Fraternity's Greater Minnesota Alumni Association Bylaws</h1>
 
-<h2 id="preamble">PREAMBLE&nbsp<a href="#preamble" class="link"></a></h2>
+<h2 id="preamble">PREAMBLE<a href="#preamble" class="link"></a></h2>
 
 <p>Believing that where there is law there is liberty, we the members of the <strong>Greater Minnesota</strong> Alumni
     Association of the
@@ -18,9 +18,9 @@ const BylawsPage = () => (
     Ritual, Constitution, Statutes and Executive Committee Regulations of the Sigma Chi Fraternity for the government of
     our organization.</p>
 
-<h2 id="article1">ARTICLE I NAME AND PURPOSE&nbsp<a href="#article1" class="link"></a></h2>
+<h2 id="article1">ARTICLE I NAME AND PURPOSE<a href="#article1" class="link"></a></h2>
 
-<h3 id="a1s1">Section 1 Name&nbsp<a href="#a1s1" class="link"></a></h3>
+<h3 id="a1s1">Section 1 Name<a href="#a1s1" class="link"></a></h3>
 
 <ol type="A">
     <li>The name of this organization shall be the <strong>Greater Minnesota</strong> Alumni Association of the Sigma
@@ -28,7 +28,7 @@ const BylawsPage = () => (
     </li>
 </ol>
 
-<h3 id="a1s2">Section 2 Purpose&nbsp<a href="#a1s2" class="link"></a></h3>
+<h3 id="a1s2">Section 2 Purpose<a href="#a1s2" class="link"></a></h3>
 
 <ol type="A">
     <li>The purpose of this alumni organization shall be:</li>
@@ -48,9 +48,9 @@ const BylawsPage = () => (
     </ul>
 </ol>
 
-<h2 id="article2">ARTICLE II MEMBERSHIP&nbsp<a href="#article2" class="link"></a></h2>
+<h2 id="article2">ARTICLE II MEMBERSHIP<a href="#article2" class="link"></a></h2>
 
-<h3 id="a2s1">Section 1 Membership&nbsp<a href="#a2s1" class="link"></a></h3>
+<h3 id="a2s1">Section 1 Membership<a href="#a2s1" class="link"></a></h3>
 
 <ol type="A">
     <li>Any member of the Sigma Chi Fraternity in good standing, and who is no longer enrolled as an undergraduate is
@@ -59,7 +59,7 @@ const BylawsPage = () => (
     </li>
 </ol>
 
-<h3 id="a2s2">Section 2 Dues&nbsp<a href="#a2s2" class="link"></a></h3>
+<h3 id="a2s2">Section 2 Dues<a href="#a2s2" class="link"></a></h3>
 
 <ol type="A">
     <li>The dues for the members of this alumni chapter shall be <strong>$20</strong> per year.</li>
@@ -75,15 +75,15 @@ const BylawsPage = () => (
     </li>
 </ol>
 
-<h3 id="a2s3">Section 3 Fiscal Year&nbsp<a href="#a2s3" class="link"></a></h3>
+<h3 id="a2s3">Section 3 Fiscal Year<a href="#a2s3" class="link"></a></h3>
 
 <ol type="A">
     <li>The fiscal year of this alumni organization shall commence on July 1.</li>
 </ol>
 
-<h2 id="article3">ARTICLE III MEETINGS & ELECTIONS&nbsp<a href="#article3" class="link"></a></h2>
+<h2 id="article3">ARTICLE III MEETINGS & ELECTIONS<a href="#article3" class="link"></a></h2>
 
-<h3 id="a3s1">Section 1 Regular Meetings&nbsp<a href="#a3s1" class="link"></a></h3>
+<h3 id="a3s1">Section 1 Regular Meetings<a href="#a3s1" class="link"></a></h3>
 
 <ol type="A">
     <li>Regular meetings will occur on the first Tuesday of every other month (February, April, June, August, October,
@@ -98,7 +98,7 @@ const BylawsPage = () => (
     </ul>
 </ol>
 
-<h3 id="a3s2">Section 2 Special Meetings&nbsp<a href="#a3s2" class="link"></a></h3>
+<h3 id="a3s2">Section 2 Special Meetings<a href="#a3s2" class="link"></a></h3>
 
 <ol type="A">
     <li>Special meetings of this alumni organization may be called at any time by:</li>
@@ -109,7 +109,7 @@ const BylawsPage = () => (
     </ul>
 </ol>
 
-<h3 id="a3s3">Section 3 Elections&nbsp<a href="#a3s3" class="link"></a></h3>
+<h3 id="a3s3">Section 3 Elections<a href="#a3s3" class="link"></a></h3>
 
 <ol type="A">
     <li>Elections shall be held annually in the month of <strong>April</strong> for the upcoming fiscal year.</li>
@@ -135,7 +135,7 @@ const BylawsPage = () => (
     </li>
 </ol>
 
-<h3 id="a3s4">Section 4 Special Elections&nbsp<a href="#a3s4" class="link"></a></h3>
+<h3 id="a3s4">Section 4 Special Elections<a href="#a3s4" class="link"></a></h3>
 
 <ol type="A">
     <li>Should an elected position be vacated, a special election will be held at the next meeting.</li>
@@ -145,7 +145,7 @@ const BylawsPage = () => (
     </li>
 </ol>
 
-<h3 id="a3s5">Section 5 Quorum&nbsp<a href="#a3s5" class="link"></a></h3>
+<h3 id="a3s5">Section 5 Quorum<a href="#a3s5" class="link"></a></h3>
 
 <ol type="A">
     <li>Quorum shall consist of at least five members or one quarter of the active organization membership (whichever is
@@ -153,7 +153,7 @@ const BylawsPage = () => (
     </li>
 </ol>
 
-<h3 id="a3s6">Section 6 Voting&nbsp<a href="#a3s6" class="link"></a></h3>
+<h3 id="a3s6">Section 6 Voting<a href="#a3s6" class="link"></a></h3>
 
 <ol type="A">
     <li>All alumni organization members shall have a vote except as hereinafter provided.</li>
@@ -169,9 +169,9 @@ const BylawsPage = () => (
     <li>Any decision of a committee may be overruled by a majority vote of the active organization.</li>
 </ol>
 
-<h2 id="article4">ARTICLE IV OFFICERS&nbsp<a href="#article4" class="link"></a></h2>
+<h2 id="article4">ARTICLE IV OFFICERS<a href="#article4" class="link"></a></h2>
 
-<h3 id="a4s1">Section 1 Organization Officers&nbsp<a href="#a4s1" class="link"></a></h3>
+<h3 id="a4s1">Section 1 Organization Officers<a href="#a4s1" class="link"></a></h3>
 
 <ol type="A">
     <li>The officers of this alumni organization shall be:</li>
@@ -185,14 +185,14 @@ const BylawsPage = () => (
     </ul>
 </ol>
 
-<h3 id="a4s2">Section 2 President&nbsp<a href="#a4s2" class="link"></a></h3>
+<h3 id="a4s2">Section 2 President<a href="#a4s2" class="link"></a></h3>
 
 <ol type="A">
     <li>The president shall oversee all chapter operations and programs.</li>
     <li>The president (or his designee) shall be the event coordinator for all business meetings.</li>
 </ol>
 
-<h3 id="a4s3">Section 3 Vice President&nbsp<a href="#a4s3" class="link"></a></h3>
+<h3 id="a4s3">Section 3 Vice President<a href="#a4s3" class="link"></a></h3>
 
 <ol type="A">
     <li>The vice president should direct committee work and obtain reports from committee chairs and event
@@ -205,8 +205,7 @@ const BylawsPage = () => (
     <li>The vice president (or his designee) shall be the event coordinator of Fall Province Event.</li>
 </ol>
 
-<h3 id="a4s4">Section 4 Secretary&nbsp<a href="#a4s4" class="link"></a></h3>
-<!--TODO: Finish fixing lists of items -->
+<h3 id="a4s4">Section 4 Secretary<a href="#a4s4" class="link"></a></h3>
 
 <ol type="A">
     <li>The secretary is responsible for all correspondence and reporting to the alumni organization, Headquarters and
@@ -233,7 +232,7 @@ const BylawsPage = () => (
     </li>
 </ol>
 
-<h3 id="a4s5">Section 5 Treasurer&nbsp<a href="#a4s5" class="link"></a></h3>
+<h3 id="a4s5">Section 5 Treasurer<a href="#a4s5" class="link"></a></h3>
 
 <ol type="A">
     <li>The treasurer is responsible for all monetary affairs of the organization including establishing a checking
@@ -252,7 +251,7 @@ const BylawsPage = () => (
     </li>
 </ol>
 
-<h3 id="a4s6">Section 6 Communications Officer&nbsp<a href="#a4s6" class="link"></a></h3>
+<h3 id="a4s6">Section 6 Communications Officer<a href="#a4s6" class="link"></a></h3>
 
 <ol type="A">
     <li>The communications officer shall coordinate the publication of the alumni organization newsletter and other
@@ -278,7 +277,7 @@ const BylawsPage = () => (
     </li>
 </ol>
 
-<h3 id="a4s8">Section 8 Undergraduate Liaison&nbsp<a href="#a4s8" class="link"></a></h3>
+<h3 id="a4s8">Section 8 Undergraduate Liaison<a href="#a4s8" class="link"></a></h3>
 
 <ol type="A">
     <li>The undergraduate liaison shall maintain communication with undergraduate organizations in the area.</li>
@@ -296,7 +295,7 @@ const BylawsPage = () => (
     </li>
 </ol>
 
-<h3 id="a4s9">Section 9 Appointed Officers&nbsp<a href="#a4s9" class="link"></a></h3>
+<h3 id="a4s9">Section 9 Appointed Officers<a href="#a4s9" class="link"></a></h3>
 
 <ol type="A">
     <li>The executive committee shall appoint other such officers as they deem necessary.</li>
@@ -304,7 +303,7 @@ const BylawsPage = () => (
     <ul>
         <li>The officer position for the remainder of the fiscal year.</li>
         <li>The appointed officer.</li>
-        </li></ul>
+    </ul>
     <li>Should the officer position be needed for more than the fiscal year, an amendment to the bylaws shall be made.
     </li>
 </ol>
@@ -318,7 +317,7 @@ const BylawsPage = () => (
     </li>
 </ol>
 
-<h3 id="a4s11">Section 11 Impeachment&nbsp<a href="#a4s11" class="link"></a></h3>
+<h3 id="a4s11">Section 11 Impeachment<a href="#a4s11" class="link"></a></h3>
 
 <ol type="A">
     <li>Any officer of this alumni organization may be impeached for non-exemplary conduct or conduct unbecoming of a
@@ -332,7 +331,7 @@ const BylawsPage = () => (
     <li>Upon an officer's impeachment, his office shall be declared vacant.</li>
 </ol>
 
-<h3 id="a4s12">Section 12 Vacancies&nbsp<a href="#a4s12" class="link"></a></h3>
+<h3 id="a4s12">Section 12 Vacancies<a href="#a4s12" class="link"></a></h3>
 
 <ol type="A">
     <li>All vacancies in the executive committee or any office in the alumni organization, from any cause, other than
@@ -341,9 +340,9 @@ const BylawsPage = () => (
     </li>
 </ol>
 
-<h2 id="article5">ARTICLE V COMMITTEES&nbsp<a href="#article5" class="link"></a></h2>
+<h2 id="article5">ARTICLE V COMMITTEES<a href="#article5" class="link"></a></h2>
 
-<h3 id="a5s1">Section 1 Committees&nbsp<a href="#a5s1" class="link"></a></h3>
+<h3 id="a5s1">Section 1 Committees<a href="#a5s1" class="link"></a></h3>
 
 <ol type="A">
     <li>There shall be the following standing committees:</li>
@@ -389,7 +388,7 @@ const BylawsPage = () => (
     <li>This committee will actively recruit brothers who are new to the area to join the alumni organization.</li>
 </ol>
 
-<h3 id="a5s4">Section 4 Events Committee&nbsp<a href="#a5s4" class="link"></a></h3>
+<h3 id="a5s4">Section 4 Events Committee<a href="#a5s4" class="link"></a></h3>
 
 <ol type="A">
     <li>The chairman of the Events Committee shall be the <strong>social and brotherhood officer</strong> with the
@@ -414,7 +413,7 @@ const BylawsPage = () => (
     </li>
 </ol>
 
-<h3 id="a5s6">Section 6 Special Committees&nbsp<a href="#a5s6" class="link"></a></h3>
+<h3 id="a5s6">Section 6 Special Committees<a href="#a5s6" class="link"></a></h3>
 
 <ol type="A">
     <li>A. The president is empowered to appoint other committees as he may see fit.</li>
@@ -424,9 +423,9 @@ const BylawsPage = () => (
     <li>Should a committee be needed for longer than the fiscal year, an amendment shall be made to these bylaws.</li>
 </ol>
 
-<h2 id="article6">ARTICLE VI AMENDMENTS&nbsp<a href="#article6" class="link"></a></h2>
+<h2 id="article6">ARTICLE VI AMENDMENTS<a href="#article6" class="link"></a></h2>
 
-<h3 id="a6s1">Section 1 Amendments&nbsp<a href="#a6s1" class="link"></a></h3>
+<h3 id="a6s1">Section 1 Amendments<a href="#a6s1" class="link"></a></h3>
 
 <ol type="A">
     <li>To amend these bylaws, a proposal must be presented to the executive committee in writing, after which the
@@ -440,13 +439,13 @@ const BylawsPage = () => (
 
 <h2 id="article7">ARTICLE VII EVENTS AND EVENT COORDINATORS</h2>
 
-<h3 id="a7s1">Section 1 Events&nbsp<a href="#a7s1" class="link"></a></h3>
+<h3 id="a7s1">Section 1 Events<a href="#a7s1" class="link"></a></h3>
 
 <ol type="A">
     <li>Events are to be held to experience and enhance the purposes outlined in Article 1, Section 2A.</li>
 </ol>
 
-<h3 id="a7s2">Section 2 Permanent Events&nbsp<a href="#a7s2" class="link"></a></h3>
+<h3 id="a7s2">Section 2 Permanent Events<a href="#a7s2" class="link"></a></h3>
 
 <ol type="A">
     <li>The five permanent annual events are to be placed on the organization's calendar maintained by the secretary no
@@ -463,7 +462,7 @@ const BylawsPage = () => (
     </ul>
 </ol>
 
-<h3 id="a7s3">Section 3 Special Events&nbsp<a href="#a7s3" class="link"></a></h3>
+<h3 id="a7s3">Section 3 Special Events<a href="#a7s3" class="link"></a></h3>
 
 <ol type="A">
     <li>Special events can be declared by the Brotherhood/Social chair with an affirmation of the Executive committee.
@@ -476,7 +475,7 @@ const BylawsPage = () => (
     </ul>
 </ol>
 
-<h3 id="a7s4">Section 4 Event Coordinators&nbsp<a href="#a7s4" class="link"></a></h3>
+<h3 id="a7s4">Section 4 Event Coordinators<a href="#a7s4" class="link"></a></h3>
 
 <ol type="A">
     <li>Event Coordinators, be they elected officers or their designees, shall be responsible for their designated
@@ -487,6 +486,7 @@ const BylawsPage = () => (
     </li>
     <li>Event coordinators may not be the named coordinator of more than 2 events per calendar year.</li>
 </ol>
+</div>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
